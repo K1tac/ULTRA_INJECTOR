@@ -41,3 +41,11 @@ If there's a bug or you want to improve something, submit a pull request or open
 
 Do whatever, Copy it. Sell it. Just don't DM me asking how to compile a DLL.
 (But note that this is open sourced so you prolly ain't gonna get sales)
+
+---
+
+## FUTURE UPDATES
+
+- Version where you don't need another DLL to inject
+- More customizable version
+
